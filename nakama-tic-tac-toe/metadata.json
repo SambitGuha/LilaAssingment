@@ -1,0 +1,6 @@
+{
+  "name": "Nakama Tic-Tac-Toe",
+  "description": "A server-authoritative multiplayer Tic-Tac-Toe game with real-time synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
